@@ -1,3 +1,12 @@
 [submodule "reasoning-response-disconnect"]
 	path = reasoning-response-disconnect
 	url = https://github.com/sankeerthana14/reasoning-response-disconnect.git
+[submodule "BRIDGE"]
+	path = BRIDGE
+	url = https://github.com/sankeerthana14/BRIDGE.git
+[submodule "slm-jailbreak-brittleness"]
+	path = slm-jailbreak-brittleness
+	url = https://github.com/sankeerthana14/slm-jailbreak-brittleness.git
+[submodule "provenance-rag"]
+	path = provenance-rag
+	url = https://github.com/sankeerthana14/provenance-rag.git
