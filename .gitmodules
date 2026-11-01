@@ -7,6 +7,3 @@
 [submodule "slm-jailbreak-brittleness"]
 	path = slm-jailbreak-brittleness
 	url = https://github.com/sankeerthana14/slm-jailbreak-brittleness.git
-[submodule "provenance-rag"]
-	path = provenance-rag
-	url = https://github.com/sankeerthana14/provenance-rag.git
